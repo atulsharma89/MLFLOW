@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/atul595525/mlflow/mlruns/0/f97a144ef5fe47dfa01b9134d8c942ff/artifacts
+end_time: 1688782090789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f97a144ef5fe47dfa01b9134d8c942ff
+run_name: charming-auk-908
+run_uuid: f97a144ef5fe47dfa01b9134d8c942ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688782088579
+status: 3
+tags: []
+user_id: atul595525

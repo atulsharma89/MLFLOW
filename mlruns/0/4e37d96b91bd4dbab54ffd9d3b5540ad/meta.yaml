@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/atul595525/mlflow/mlruns/0/4e37d96b91bd4dbab54ffd9d3b5540ad/artifacts
+end_time: 1688782676100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e37d96b91bd4dbab54ffd9d3b5540ad
+run_name: agreeable-kite-320
+run_uuid: 4e37d96b91bd4dbab54ffd9d3b5540ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688782674233
+status: 3
+tags: []
+user_id: atul595525

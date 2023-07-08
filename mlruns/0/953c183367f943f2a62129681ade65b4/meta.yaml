@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/atul595525/mlflow/mlruns/0/953c183367f943f2a62129681ade65b4/artifacts
+end_time: 1688782644557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 953c183367f943f2a62129681ade65b4
+run_name: learned-rat-768
+run_uuid: 953c183367f943f2a62129681ade65b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688782642779
+status: 3
+tags: []
+user_id: atul595525

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/atul595525/mlflow/mlruns/0/fd1c005d50304f30954fd78cc4273e0e/artifacts
+end_time: 1688782689391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd1c005d50304f30954fd78cc4273e0e
+run_name: brawny-dog-604
+run_uuid: fd1c005d50304f30954fd78cc4273e0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688782688976
+status: 4
+tags: []
+user_id: atul595525

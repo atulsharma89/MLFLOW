@@ -70,23 +70,29 @@ def main(n_estimators,max_depth):
         rf.fit(x_train,y_train)
         pred=rf.predict(x_test)
 
-        pred_prob=rf.predict_proba(X_test)
+        pred_prob=rf.predict_proba(x_test)
 
 
     #evaluate the model
     #mae,mse,rmse,r2 = evaluate(y_test,pred)
 
-        accuracy,roc_auc_score = evaluate(y_test,pred,pred_prob)
+        accuracy,roc_auc = evaluate(y_test,pred,pred_prob)
         #roc_auc=roc_auc_score(y_test,pred)
 
-        mlflow.log_param("n_estimators":n_estimators)
-        mlflow.log_param("max_depth":max_depth)
+        mlflow.log_param("n_estimators",n_estimators)
+        mlflow.log_param("max_depth",max_depth)
 
-        mlflow.log_metric("accuracy":accuracy)
-        mlflow.log_metric("roc_auc_score":roc_auc_score)
+        mlflow.log_metric("accuracy",accuracy)
+        mlflow.log_metric("roc_auc_score",roc_auc)
+
+
+        #mlflow model saving
+
+        mlflow.sklearn.log_model(rf,"random forest model")
 
     #print(f"mean absolute error {mae}, mean squared error {mse}, root mean squared error {rmse}, r2_score {r2}")
         print(f"accuracy score {accuracy}")
+        print(f"roc_Auc_score {roc_auc}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/atul595525/mlflow/mlruns/0/3b2ae1a7de7f46fa95da7a27ef31b264/artifacts
+end_time: 1688782665516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b2ae1a7de7f46fa95da7a27ef31b264
+run_name: likeable-koi-591
+run_uuid: 3b2ae1a7de7f46fa95da7a27ef31b264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688782663759
+status: 3
+tags: []
+user_id: atul595525

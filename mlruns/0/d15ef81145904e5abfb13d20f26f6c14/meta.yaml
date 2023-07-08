@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/atul595525/mlflow/mlruns/0/d15ef81145904e5abfb13d20f26f6c14/artifacts
+end_time: 1688782672548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d15ef81145904e5abfb13d20f26f6c14
+run_name: hilarious-colt-959
+run_uuid: d15ef81145904e5abfb13d20f26f6c14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688782670697
+status: 3
+tags: []
+user_id: atul595525

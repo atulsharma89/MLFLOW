@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/atul595525/mlflow/mlruns/0/50d2988fd12b42e8a52ebd3056699288/artifacts
+end_time: 1688782661969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50d2988fd12b42e8a52ebd3056699288
+run_name: honorable-stag-581
+run_uuid: 50d2988fd12b42e8a52ebd3056699288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688782660170
+status: 3
+tags: []
+user_id: atul595525

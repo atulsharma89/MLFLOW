@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/atul595525/mlflow/mlruns/0/df81e7d65ee643a4b6e9b9a5d8cf20df/artifacts
+end_time: 1688782655004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df81e7d65ee643a4b6e9b9a5d8cf20df
+run_name: salty-koi-413
+run_uuid: df81e7d65ee643a4b6e9b9a5d8cf20df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688782653242
+status: 3
+tags: []
+user_id: atul595525

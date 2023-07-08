@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/atul595525/mlflow/mlruns/0/24a4b44ce3184ac0ad01b92ad9f7cbde/artifacts
+end_time: 1688782648088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24a4b44ce3184ac0ad01b92ad9f7cbde
+run_name: capricious-panda-518
+run_uuid: 24a4b44ce3184ac0ad01b92ad9f7cbde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688782646351
+status: 3
+tags: []
+user_id: atul595525

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/atul595525/mlflow/mlruns/0/92e7e66353e14db7a8f3ef64b20e28db/artifacts
+end_time: 1688781908242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92e7e66353e14db7a8f3ef64b20e28db
+run_name: sassy-pug-549
+run_uuid: 92e7e66353e14db7a8f3ef64b20e28db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688781907753
+status: 3
+tags: []
+user_id: atul595525
