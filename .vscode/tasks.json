@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "prettier:check",
+			"path": "mlflowenv/lib/python3.8/site-packages/matplotlib/backends/web_backend/",
+			"problemMatcher": [],
+			"label": "npm: prettier:check - mlflowenv/lib/python3.8/site-packages/matplotlib/backends/web_backend",
+			"detail": "prettier --check \"**/*{.ts,.tsx,.js,.jsx,.css,.json}\""
+		}
+	]
+}

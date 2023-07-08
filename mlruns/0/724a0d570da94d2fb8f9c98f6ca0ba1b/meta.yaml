@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/atul595525/mlflow/mlruns/0/724a0d570da94d2fb8f9c98f6ca0ba1b/artifacts
+end_time: 1688752289437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 724a0d570da94d2fb8f9c98f6ca0ba1b
+run_name: funny-wren-909
+run_uuid: 724a0d570da94d2fb8f9c98f6ca0ba1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688752289430
+status: 3
+tags: []
+user_id: atul595525
